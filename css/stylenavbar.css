@@ -1,0 +1,146 @@
+#navbar{
+	background-color: #6A80B9;
+	text-align: center;
+	padding: 3%;
+	margin: 2%;
+	border: 4px solid darkblue;
+}
+
+#navbar a {
+	font-family: monospace;
+	text-decoration: none;
+	color: white;
+	background-color: #155E95;
+	margin: 2% 5% 0 0;
+	padding: 5px 10px;
+}
+ #navbar a:hover {
+ 	background-color: #A5BFCC;
+ }
+
+#navbar h1 {
+	font-family: monospace;
+	text-align: center;
+	color: white;
+	text-decoration: none;
+	margin: 5%;
+}
+
+#info {
+	background-color: #6A80B9;
+	margin: 2%;
+	border: 4px solid darkblue;
+	color: white;
+}
+
+#info h1 {
+	font-family: monospace;
+	text-align: center;
+	color: white;
+	text-decoration: none;
+	margin: 2%;
+}
+
+.cat-container {
+	display: inline-block;
+	width: 260px;
+	margin: 20px;
+	vertical-align: top;
+}
+
+.cat-container img {
+	display: block;
+	margin: auto;
+}
+
+.cat-container p {
+	font-family: monospace;
+	margin-top: 10px;
+
+}
+
+#howto{
+	background-color: #6A80B9;
+	text-align: center;
+	padding: 3%;
+	margin: 2%;
+	border: 4px solid darkblue;
+}
+
+#howto h1 {
+	font-family: monospace;
+	text-align: center;
+	color: white;
+	text-decoration: none;
+	margin: 20px;
+}
+
+#howto h3 {
+	padding: 15px;
+	font-family: monospace;
+	text-align: center;
+	color: white;
+}
+
+#howto ol {
+	font-family: monospace;
+	text-align: center;
+	color: white;
+    list-style-position: inside; 
+}
+
+#howto li {
+	margin-bottom: 12px;
+}
+
+#contacts{
+	color: white;
+	background-color: #6A80B9;
+	text-align: center;
+	font-family: monospace;
+	padding: 3%;
+	margin: 2%;
+	border: 4px solid darkblue;
+}
+
+#contacts h {
+	font-family: monospace;
+	text-align: center;
+	color: white;
+	text-decoration: none;
+	margin: 20px;
+}
+
+#contacts p{
+	font-family: monospace;
+	text-align: center;
+}
+
+#contacts ul {
+	font-family: monospace;
+	text-align: center;
+	color: white;
+    list-style-position: inside; 
+}
+
+#contacts li {
+	margin-bottom: 8px;
+}
+
+#switch {
+	background-color: #6A80B9;
+	text-align: center;
+	padding: 3%;
+	margin: 2%;
+	border: 4px solid darkblue;
+}
+
+#switch button {
+	margin: 5%;
+	padding: 1%;
+	border: none;
+	background-color: #155E95;
+	font-family: monospace;
+	color: white;
+	float: inherit;
+}
